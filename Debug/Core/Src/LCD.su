@@ -1,0 +1,11 @@
+LCD.c:5:6:LCD_DATA	16	static
+LCD.c:32:6:LCD_CMD	16	static
+LCD.c:46:6:LCD_Clear	8	static
+LCD.c:51:6:LCD_Set_Cursor	24	static
+LCD.c:71:6:LCD_Init	8	static
+LCD.c:100:6:LCD_Write_Char	24	static
+LCD.c:122:6:LCD_Write_String	24	static
+LCD.c:128:6:LCD_SL	8	static
+LCD.c:133:6:LCD_SR	8	static
+LCD.c:139:6:__delay_ms	16	static
+LCD.c:144:6:__delay_us	16	static
