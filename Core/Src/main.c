@@ -19,6 +19,8 @@
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 
+#include "LCD.h"
+
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -93,6 +95,7 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
+	  LCD_Write_String("Hello World!");
 
     /* USER CODE BEGIN 3 */
   }
